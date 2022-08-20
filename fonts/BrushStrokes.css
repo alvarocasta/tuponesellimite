@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Brush Strokes';
+  src: url('Brush Strokes.eot');
+  src: url('Brush Strokes.eot?#iefix') format('embedded-opentype'),
+       url('Brush Strokes.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BrushStrokes';
+  src: url('BrushStrokes.woff') format('woff'),
+       url('BrushStrokes.ttf') format('truetype'),
+       url('BrushStrokes.svg#BrushStrokes') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
